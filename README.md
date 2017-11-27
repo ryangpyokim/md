@@ -17,7 +17,7 @@ function fancyAlert(arg) {
 }
 ```
 
-```plsql
+```sql
 create table temp_synckey01 as
 select * from (
   select /*+ leading(ch pa) use_nl(ch pa) */
