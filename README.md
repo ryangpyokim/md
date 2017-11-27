@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Synchronization
 -------------------
 
@@ -49,3 +50,6 @@ where pa.sop_key = a.pa_sop;
 
 
 ```
+=======
+# md
+>>>>>>> parent of 008e306... Update README.md
